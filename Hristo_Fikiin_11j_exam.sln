@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinesLayer", "BusinessLayer\BussinesLayer.csproj", "{468A2E54-8B5E-41DE-B2AE-1FF64266BC17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataLayer", "DataLayer\DataLayer.csproj", "{8260EB48-E85A-411F-81E6-92BAD4A4249B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "Testing\Testing.csproj", "{123926C7-0F2E-4DDA-BB21-789122EB17CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468A2E54-8B5E-41DE-B2AE-1FF64266BC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468A2E54-8B5E-41DE-B2AE-1FF64266BC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468A2E54-8B5E-41DE-B2AE-1FF64266BC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468A2E54-8B5E-41DE-B2AE-1FF64266BC17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8260EB48-E85A-411F-81E6-92BAD4A4249B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8260EB48-E85A-411F-81E6-92BAD4A4249B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8260EB48-E85A-411F-81E6-92BAD4A4249B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8260EB48-E85A-411F-81E6-92BAD4A4249B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{123926C7-0F2E-4DDA-BB21-789122EB17CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123926C7-0F2E-4DDA-BB21-789122EB17CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123926C7-0F2E-4DDA-BB21-789122EB17CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123926C7-0F2E-4DDA-BB21-789122EB17CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1397E18-CB5F-4337-8A1A-CDBABAC445EA}
+	EndGlobalSection
+EndGlobal
